@@ -1,9 +1,9 @@
 {
-  "name": "purescript-config",
+  "name": "purescript-config2",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TinkerTravel/purescript-config.git"
+    "url": "https://github.com/justinwoo/purescript-config2.git"
   },
   "dependencies": {
     "purescript-either": "^4.0.0",

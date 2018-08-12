@@ -1,4 +1,4 @@
-# purescript-config
+# purescript-config2
 
 ### This is a fork of the TinkerTravel project that is no longer active.
 
