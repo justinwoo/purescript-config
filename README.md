@@ -1,5 +1,7 @@
 # purescript-config
 
+### This is a fork of the TinkerTravel project that is no longer active.
+
 Applicative configuration inspired by the talk
 [Move Over Free Monads: Make Way for Free Applicatives!][talk]
 
